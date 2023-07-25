@@ -1,0 +1,17 @@
+.span1 {
+  color: red;
+  font-weight: bold;
+}
+img {
+  width: 100%;
+}
+.portada {
+  background-image: url(https://sceu.frba.utn.edu.ar/wp-content/uploads/2022/11/Header_landings-WP-SCEU-2023_1920x300.png);
+  height: 300px;
+  display: flex;
+  align-items: center;
+  padding-left: 300px;
+}
+.tittle {
+  color: white;
+}
